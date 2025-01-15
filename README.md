@@ -40,5 +40,7 @@ In this project, I manually provisioned virtual machines using a Vagrantfile to 
 - Maven
 - JSP
 - MySQL
+  
+# Checkout vprofile-project-instructions.pdf for instructions on how to run the project.
 
 
