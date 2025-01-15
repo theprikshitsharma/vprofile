@@ -1,4 +1,4 @@
-# 3-Tier Application Stack Project  
+# Manual 3-Tier Application Stack Project  
 
 ![image](https://github.com/user-attachments/assets/679d2eb2-31ce-47a8-87e2-1d6f012bbbf4)
 
