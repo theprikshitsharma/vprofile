@@ -1,5 +1,7 @@
 # Automated 3-Tier Application Stack Setup  
 
+![image](https://github.com/user-attachments/assets/679d2eb2-31ce-47a8-87e2-1d6f012bbbf4)
+
 This project demonstrates the automated provisioning of a 3-Tier Application Stack using Vagrant and provisioning scripts. The stack includes **MySQL/MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx**, with the setup handled entirely through automation.
 
 ## Automation Workflow  
