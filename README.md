@@ -47,5 +47,6 @@ This project demonstrates the automated provisioning of a 3-Tier Application Sta
 - JSP
 - MySQL
 
+# Checkout vprofile-project-instructions.pdf for instructions on how to run the project.
 
 
