@@ -1,4 +1,5 @@
 # 3-Tier Application Stack Project  
+
 ![image](https://github.com/user-attachments/assets/679d2eb2-31ce-47a8-87e2-1d6f012bbbf4)
 
 In this project, I manually provisioned virtual machines using a Vagrantfile to establish a 3-Tier Application Stack consisting of **MySQL/MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx**. Linux server configurations were meticulously handled using a Bash script.  
@@ -15,7 +16,10 @@ In this project, I manually provisioned virtual machines using a Vagrantfile to 
 -  **Artifact Deployment**: Compiled the application using Maven and deployed the generated artifact to the Tomcat server.  
 -  **System Validation**: Conducted end-to-end testing by accessing the application via a web browser to ensure functionality and service integration.  
 
-## Process Overview  
+## Process Overview 
+
+![image](https://github.com/user-attachments/assets/66b4b5e0-7012-4016-8a65-0229c214252a)
+
 1. Requests from the **Nginx** load balancer were routed to the **Tomcat** server.  
 2. The **Tomcat** server processed the requests, interacting with:  
    - **RabbitMQ** (message broker)  
