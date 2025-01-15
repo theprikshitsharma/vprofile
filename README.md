@@ -1,5 +1,6 @@
 # 3-Tier Application Stack Project  
 ![image](https://github.com/user-attachments/assets/679d2eb2-31ce-47a8-87e2-1d6f012bbbf4)
+
 In this project, I manually provisioned virtual machines using a Vagrantfile to establish a 3-Tier Application Stack consisting of **MySQL/MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx**. Linux server configurations were meticulously handled using a Bash script.  
 
 ## Project Workflow  
