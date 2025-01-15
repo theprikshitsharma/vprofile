@@ -1,5 +1,5 @@
 # 3-Tier Application Stack Project  
-
+![image](https://github.com/user-attachments/assets/679d2eb2-31ce-47a8-87e2-1d6f012bbbf4)
 In this project, I manually provisioned virtual machines using a Vagrantfile to establish a 3-Tier Application Stack consisting of **MySQL/MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx**. Linux server configurations were meticulously handled using a Bash script.  
 
 ## Project Workflow  
@@ -35,15 +35,5 @@ In this project, I manually provisioned virtual machines using a Vagrantfile to 
 - Maven
 - JSP
 - MySQL
-# Database
-Here,we used Mysql DB 
-MSQL DB Installation Steps for Linux ubuntu 14.04:
-- $ sudo apt-get update
-- $ sudo apt-get install mysql-server
-
-Then look for the file :
-- /src/main/resources/accountsdb
-- accountsdb.sql file is a mysql dump file.we have to import this dump to mysql db server
-- > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
